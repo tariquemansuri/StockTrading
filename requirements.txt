@@ -1,0 +1,6 @@
+alpaca-trade-api>=0.25
+Flask==0.10.1
+gunicorn==19.9.0
+google-python-cloud-debugger
+ta
+sklearn
