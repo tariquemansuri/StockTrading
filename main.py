@@ -1,22 +1,3 @@
-from flask import Flask
-from Stock_Trading_Bot import mainFunc
-
-try:
-  import googleclouddebugger
-  googleclouddebugger.enable()
-except ImportError:
-   pass
-
-import logging
-logging.basicConfig(level=logging.INFO)
-
-app = Flask(__name__)
-
-
-@app.route('/')
-def func():
-    mainFunc()
-
-
-if __name__ == '__main__':
-    app.run(host='127.0.0.1', prot=8080, debug=True)
+version https://git-lfs.github.com/spec/v1
+oid sha256:847ba9622fa12ed3fd188af8f01ec46271204a5c1700ec142ebb43fe0574cb21
+size 383
