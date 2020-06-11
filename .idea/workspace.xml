@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b71b3bc-97f7-4454-8385-f2469f8b8d89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/StockTradingBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StockTradingBot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +31,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MineSweeper" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,6 +91,10 @@
     </state>
     <state x="478" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591775392938" />
     <state x="2797" y="297" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1591687958738" />
+    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1591909743898">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591909743898" />
     <state width="1419" height="181" key="GridCell.Tab.0.bottom" timestamp="1591499255424">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -104,9 +111,17 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1419" height="181" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591499255423" />
-    <state x="222" y="103" key="SettingsEditor" timestamp="1591051780122">
+    <state x="222" y="103" key="SettingsEditor" timestamp="1591908900044">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591051780122" />
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591908900044" />
+    <state x="416" y="192" width="609" height="536" key="find.popup" timestamp="1591907925392">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="416" y="192" width="609" height="536" key="find.popup/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591907925392" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1591908848028">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591908848028" />
   </component>
 </project>

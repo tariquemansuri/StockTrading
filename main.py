@@ -1,13 +1,16 @@
 from flask import Flask
+
 from Stock_Trading_Bot import mainFunc
 
 try:
-  import googleclouddebugger
-  googleclouddebugger.enable()
+    import googleclouddebugger
+
+    googleclouddebugger.enable()
 except ImportError:
-   pass
+    pass
 
 import logging
+
 logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
