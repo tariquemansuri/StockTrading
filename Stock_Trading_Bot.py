@@ -9,7 +9,8 @@ from keras.layers import Dense
 from keras.models import Sequential, model_from_json
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
-from AlpacaTradingAPI.rest import REST
+from alpaca_trade_api import REST
+#from alpaca_trade_api.rest import REST
 
 
 class AlpacaPaperSocket(REST):
@@ -156,3 +157,7 @@ def mainFunc():
     AIPMDevelopment()
     PortfolioManagementModel()
     PortfolioManagementSystem()
+
+AIPMDevelopment()
+PortfolioManagementModel()
+PortfolioManagementSystem()

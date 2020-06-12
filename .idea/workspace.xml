@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b71b3bc-97f7-4454-8385-f2469f8b8d89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/StockTradingBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StockTradingBot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/rest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/streamconn.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/streamconn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/rest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/stream2.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/stream2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock_Trading_Bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock_Trading_Bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
