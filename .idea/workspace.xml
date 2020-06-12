@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="5b71b3bc-97f7-4454-8385-f2469f8b8d89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/rest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/polygon/streamconn.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/polygon/streamconn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/rest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlpacaTradingAPI/stream2.py" beforeDir="false" afterPath="$PROJECT_DIR$/alpaca-trade-api/stream2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stock_Trading_Bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock_Trading_Bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/entity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/entity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/rest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/streamconn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/rest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/stream2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,23 @@
       <option name="presentableId" value="Default" />
       <updated>1591045349509</updated>
     </task>
+    <task id="LOCAL-00001" summary="Minor changes for Google Cloud">
+      <created>1591948185448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591948185449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Minor changes for Google Cloud" />
+    <MESSAGE value="Minor changes for" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes for" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591775392938">
@@ -100,6 +115,10 @@
     </state>
     <state x="478" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591775392938" />
     <state x="2797" y="297" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1591687958738" />
+    <state x="362" y="55" key="CommitChangelistDialog2" timestamp="1591948242562">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="362" y="55" key="CommitChangelistDialog2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591948242562" />
     <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1591909743898">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
