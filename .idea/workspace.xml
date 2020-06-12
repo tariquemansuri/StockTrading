@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b71b3bc-97f7-4454-8385-f2469f8b8d89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock_Trading_Bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock_Trading_Bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/entity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/entity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/rest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/polygon/streamconn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/rest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alpaca-trade-api/stream2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591948185449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Minor changes for">
+      <created>1591948253106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591948253106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +139,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591908900044" />
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2" timestamp="1591948286650">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1591948286650" />
     <state x="416" y="192" width="609" height="536" key="find.popup" timestamp="1591907925392">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
